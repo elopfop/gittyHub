@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A83665DB23E71AD900AC5319 /* gittyHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gittyHub.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A83665DB23E71AD900AC5319 /* Beefy Beef App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Beefy Beef App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A83665DE23E71AD900AC5319 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A83665E023E71AD900AC5319 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		A83665E223E71AD900AC5319 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
@@ -93,7 +93,7 @@
 		A83665DC23E71AD900AC5319 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A83665DB23E71AD900AC5319 /* gittyHub.app */,
+				A83665DB23E71AD900AC5319 /* Beefy Beef App.app */,
 				A83665F523E71ADA00AC5319 /* gittyHubTests.xctest */,
 				A836660023E71ADA00AC5319 /* gittyHubUITests.xctest */,
 			);
@@ -151,7 +151,7 @@
 			);
 			name = gittyHub;
 			productName = gittyHub;
-			productReference = A83665DB23E71AD900AC5319 /* gittyHub.app */;
+			productReference = A83665DB23E71AD900AC5319 /* Beefy Beef App.app */;
 			productType = "com.apple.product-type.application";
 		};
 		A83665F423E71ADA00AC5319 /* gittyHubTests */ = {
@@ -449,7 +449,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Proj.gittyHub;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Beefy Beef App";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -466,7 +466,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Proj.gittyHub;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Beefy Beef App";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
